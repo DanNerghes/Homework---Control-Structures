@@ -34,7 +34,7 @@ function sumOfTheElementsOAnfArray(arr) {
 
 const myArr = [1, 7, 3, 5, 4, 1, 3, 1, 1, 4];
 
-sumOfTheElementsOAnfArray(myArr)
+sumOfTheElementsOAnfArray(myArr);
 
 // 4.compute the maximum of the elements of an array and display it in the console
 
